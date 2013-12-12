@@ -1,0 +1,75 @@
+{
+
+
+    "theme": "Soda Light.sublime-theme",
+
+    "auto_complete_commit_on_tab": true,
+    "bold_folder_labels": true,
+    "detect_indentation": false,
+    "indent_subsequent_lines": true,
+    "draw_indent_guides": true,
+    "indent_guide_options": [
+    "draw_active",
+    "draw_normal"
+    ],
+    "draw_white_space": "selection",
+    "ensure_newline_at_eof_on_save": true,
+    "find_selected_text": true,
+    "caret_style": "solid",
+    "folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        "_build",
+        "dist",
+        "build",
+        "site",
+        ".DS_Store",
+        "*.scssc"
+    ],
+    "font_face": "Ubuntu mono",
+    "font_options":
+    [
+        "no_bold",
+        "subpixel_antialias"
+    ],
+    "font_size": 11.0,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_padding_bottom": 2,
+    "line_padding_top": 2,
+    "open_files_in_new_window": false,
+    "tab_size": 4,
+    "trailing_spaces_include_current_line": false,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "use_tab_stops": true,
+    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&#038;*|+=[]{}`~?",
+    "word_wrap": false,
+
+    "match_brackets": true,
+    "match_brackets_angle": true,
+    "match_brackets_braces": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+
+    "scroll_past_end": true,
+    "scroll_speed": 2,
+
+    "remember_open_files": true,
+    "remember_open_folders": true,
+    "show_full_path": true,
+
+    "detect_slow_plugins": false,
+    "save_on_focus_lost": false,
+    "fade_fold_buttons": true,
+    "auto_match_enabled": true,
+    "match_tags": true,
+    "auto_complete_delay": 50
+}
